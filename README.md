@@ -1,1 +1,1 @@
-mapairquality.github.io
+https://avinwijaya.github.io/mapairquality
